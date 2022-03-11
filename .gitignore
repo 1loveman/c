@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/c/v16/Browse.VC.db-shm
+/.vs/c/v16/Browse.VC.db-wal
+/.vs/c/v16/Browse.VC.opendb
