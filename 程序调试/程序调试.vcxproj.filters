@@ -18,5 +18,8 @@
     <ClCompile Include="01调试.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02关于栈.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
