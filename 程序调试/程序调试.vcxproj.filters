@@ -21,5 +21,11 @@
     <ClCompile Include="02关于栈.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="实现strcpy.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="实现strlen.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

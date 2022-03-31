@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="01调试.c" />
     <ClCompile Include="02关于栈.c" />
+    <ClCompile Include="实现strcpy.c" />
+    <ClCompile Include="实现strlen.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

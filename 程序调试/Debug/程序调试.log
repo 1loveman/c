@@ -1,2 +1,5 @@
-﻿  02关于栈.c
+﻿  实现strcpy.c
+  实现strlen.c
+E:\项目\c\程序调试\实现strlen.c(6,1): warning C4090: “初始化”: 不同的“const”限定符
+  正在生成代码...
   程序调试.vcxproj -> E:\项目\c\程序调试\Debug\程序调试.exe
