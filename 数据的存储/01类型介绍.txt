@@ -1,0 +1,46 @@
+
+	/*
+	
+	数据类型
+		内置数据类型
+		自定义数据类型
+
+	内置类型有
+		整型
+		字符型
+		浮点型
+	整型家族
+		char
+			unsigned char---即最高位代表符号
+			signed char
+		short
+			unsigned short
+			signed short
+		int
+			unsigned int
+			signed int
+		long
+			unsigned long
+			signed long
+		long long
+			unsigned long long
+			signed long long
+	浮点型家族
+		float
+		double
+
+	自定义类型
+		
+	构造类型
+		数组 类型[]--- 如int arr[10]; 该数组类型为int[10]
+		结构体struct
+		枚举enum
+		联合类型union
+
+	指针类型
+	空类型
+	
+	
+	*/
+	 
+	//类型的意义--1开辟对应大小的空间。决定了使用范围 --2存储方式
