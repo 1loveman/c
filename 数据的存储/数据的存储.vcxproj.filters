@@ -18,6 +18,15 @@
     <ClCompile Include="01类型介绍.txt">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="01.判断大小端.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02.整型提升.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02整型提升例题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="02整型数据存储.txt">
